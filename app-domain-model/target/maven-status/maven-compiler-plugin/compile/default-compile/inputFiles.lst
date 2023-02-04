@@ -1,0 +1,14 @@
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/Task.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/dto/ProjectDTO.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/dto/UserDTO.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/util/MapperUtil.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/ResponseWrapper.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/BaseEntity.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/Project.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/dto/RoleDTO.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/enums/Status.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/enums/Gender.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/dto/UserResponseDTO.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/dto/TaskDTO.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/User.java
+/Users/marie.t/IdeaProjects/ticketing-project-microservices/app-domain-model/src/main/java/com/cydeo/entity/Role.java
